@@ -1,8 +1,8 @@
-# 📈 Quant Risk Simulation
+#  Quant Risk Simulation
 
 A Monte Carlo-based quantitative finance simulator for evaluating trading strategy performance under uncertainty. The project models thousands of possible trading outcomes to estimate expected returns, risk of ruin, survival probability, drawdowns, and capital growth distributions.
 
-## 🚀 Features
+## Features
 
 * Monte Carlo simulation of trading strategies
 * Expected Value (EV) analysis
@@ -16,7 +16,7 @@ A Monte Carlo-based quantitative finance simulator for evaluating trading strate
 
 ---
 
-## 📊 Metrics Analyzed
+##  Metrics Analyzed
 
 ### Expected Profit
 
@@ -45,7 +45,7 @@ Measures peak-to-trough declines in portfolio value.
 
 ---
 
-## ⚙️ User Inputs
+##  User Inputs
 
 The simulator accepts the following parameters:
 
@@ -61,7 +61,7 @@ The simulator accepts the following parameters:
 
 ---
 
-## 🧮 Simulation Process
+##  Simulation Process
 
 For each simulation:
 
@@ -75,7 +75,7 @@ For each simulation:
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 ### Final Capital Distribution
 
@@ -92,7 +92,7 @@ This helps visualize variability and risk exposure.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * NumPy
@@ -103,7 +103,7 @@ This helps visualize variability and risk exposure.
 
 ---
 
-## 📦 Installation
+##  Installation
 
 Clone the repository:
 
@@ -126,7 +126,7 @@ python simulation.py
 
 ---
 
-## 📋 Example Input
+##  Example Input
 
 ```text
 Initial Capital: 10000
@@ -140,7 +140,7 @@ Ruin Threshold Capital: 1000
 
 ---
 
-## 📌 Example Output
+##  Example Output
 
 ```text
 Expected Profit          : 12,850
@@ -153,7 +153,7 @@ Worst Drawdown           : 57.40%
 
 ---
 
-## 🎯 Applications
+##  Applications
 
 * Quantitative Finance Research
 * Trading Strategy Evaluation
@@ -164,7 +164,7 @@ Worst Drawdown           : 57.40%
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Kelly Criterion Position Sizing
 * Value at Risk (VaR)
@@ -177,7 +177,7 @@ Worst Drawdown           : 57.40%
 
 ---
 
-## 👨‍💻 Author
+## 👨 Author
 
 **Ansh Sabhaya**
 
