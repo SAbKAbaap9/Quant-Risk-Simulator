@@ -177,7 +177,7 @@ Worst Drawdown           : 57.40%
 
 ---
 
-## 👨 Author
+## Author
 
 **Ansh Sabhaya**
 
